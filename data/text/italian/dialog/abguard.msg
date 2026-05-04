@@ -7,7 +7,7 @@ Non te lo augurerei, e sono abbastanza sicuro che neanche tu lo gradirebbe, quin
 cervello contorto che hai.}
 {202}{}{Chi sei?}
 {203}{}{Dove posso trovare dei medicinali?}
-{204}{}{Qualcuno sta dissotterrando le tombe, perché non fai nulla al riguardo?}
+{204}{}{Qualcuno sta dissotterrando le tombe, perche' non fai nulla al riguardo?}
 {205}{}{Ho sentito qualcosa riguardo ad animali nel seminterrato. Ne sai qualcosa?}
 {206}{}{Penso che sia ora di mandarti nella tomba. Balliamo, vecchio.}
 {207}{}{Non importa. Arrivederci.}
